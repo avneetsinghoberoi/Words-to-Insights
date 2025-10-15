@@ -4,18 +4,18 @@ This project demonstrates a complete end-to-end **Text Mining** pipeline using a
 
 ---
 
-## 📋 Features
+## Features
 
-- ✅ Sample dataset with 20 textual reviews
-- ✅ Text preprocessing (cleaning, stopwords, lemmatization)
-- ✅ Word Cloud for text visualization
-- ✅ Topic Modeling using LDA (Latent Dirichlet Allocation)
-- ✅ Sentiment analysis using TextBlob
-- ✅ Sentiment classification and distribution plot
+- Sample dataset with 20 textual reviews
+- Text preprocessing (cleaning, stopwords, lemmatization)
+- Word Cloud for text visualization
+- Topic Modeling using LDA (Latent Dirichlet Allocation)
+- Sentiment analysis using TextBlob
+- Sentiment classification and distribution plot
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - 20 textual documents
 - Each row represents a short customer review
@@ -23,7 +23,7 @@ This project demonstrates a complete end-to-end **Text Mining** pipeline using a
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - `pandas`, `numpy`
 - `nltk`, `textblob`
