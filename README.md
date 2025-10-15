@@ -1,4 +1,4 @@
-# Words to InSights
+# Words to Insights
 
 This project demonstrates a complete end-to-end **Text Mining** pipeline using a custom dataset of 20 sample documents (product reviews or user comments). It includes preprocessing, word cloud visualization, topic modeling with LDA, and sentiment analysis.
 
