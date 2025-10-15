@@ -87,6 +87,7 @@ display_topics(lda, vectorizer.get_feature_names_out(), 5)
 ---
 
 ## Author
+Created by - Avneet Singh Oberoi (229310248)
 Project built for the **Text Mining** academic subject. Customize freely for assignments, demos, or presentations!
 
 Feel free to fork and improve 
